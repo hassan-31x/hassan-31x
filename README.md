@@ -1,3 +1,5 @@
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=hassan-31x)
+
 <img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Hassan</h1>
@@ -73,6 +75,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hassan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hassan-31x&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hassan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassan-31x&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
+
+
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hassan-31x&theme=dark)](https://codeforces.com/profile/hassan-31x)
+  [![Leetcode Profile](https://leetcode.card.workers.dev/Hassan031?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/Hassan031/)
+
+  <br />
 
 [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hassan-31x&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
