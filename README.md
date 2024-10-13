@@ -1,3 +1,7 @@
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hassan-31x">
+</a>
+<a href="https://github.com/hassan-31x?tab=followers"><img src="https://img.shields.io/github/followers/hassan-31x?label=Followers&style=social" alt="GitHub Badge"></a>
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=hassan-31x)
 
 <img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
