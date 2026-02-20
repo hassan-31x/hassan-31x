@@ -5,7 +5,7 @@
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=hassan-31x)
 
-<img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
+<!-- <img src="./assets/ezgif.com-gif-maker.gif" alt="banner"> -->
 
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3><br>
@@ -30,12 +30,9 @@
    <img src="https://profile-counter.glitch.me/hassan-31x/count.svg" align="center"/> 
  </p></div>
 
-- 😎 One Developer Army 💪💪
 - 🔭 I’m currently working on a [lot of projects](https://github.com/hassan-31x?tab=repositories) !!
-- 🌱 I’m currently learning Web3 & Metaverse technologies 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Become a Cloud Architect and Web3 Developer
-- ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
+- 🌱 I’m currently learning AI 🤣
+- ⚡ Fun fact: I love to code and play games
 
 
 <br />
@@ -107,13 +104,13 @@
 
 </div>
 
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
 
-<h2><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="50px"> &nbsp; My Trophies</h2>
-<hr></hr>
+<!-- <h2><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="50px"> &nbsp; My Trophies</h2> -->
+<!-- <hr></hr> -->
 
-<div align="center" >
+<!-- <div align="center" >
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hassan-31x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+</div> -->
